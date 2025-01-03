@@ -14,6 +14,7 @@ At 5Tides, we embrace simplicity and warmth. Our home is your haven, a place whe
 Remember – you are more than simply visitors; you are part of our extended family. Experience the thrill of a tranquil retreat with us and make your holiday unforgettable.
 
 Elevate Your Stay at 5Tides.
+
 Cheers!
 
 [back](./)
