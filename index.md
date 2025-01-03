@@ -28,8 +28,8 @@ Email us at: [contactus@vacation-30a.com](mailto:5tidesfl@gmail.com)
 
 
 ## Featured Images
-![Topsail Village Pool Area](assets/images/web_412%20Topsail%20Village%20_30.jpg) 
-![Topsail Village 30A](assets/images/web_412%20Topsail%20Village%20_31.jpg) 
+![Topsail Village Pool Area](assets/images/web_412%20Topsail%20Village%20%20_30.jpg) 
+![Topsail Village 30A](assets/images/web_412%20Topsail%20Village%20%20_31.jpg) 
 ![Drone View of Topsail Village Pool and Building](assets/images/web_412%20Topsail%20Village%20_32.jpg) 
 ![Drone View of 30A and Gulf of Mexico](assets/images/web_412%20Topsail%20Village%20_33.jpg) 
 ![Drone View of 30A and Emerald Coast](assets/images/web_412%20Topsail%20Village%20_34.jpg)
