@@ -3,15 +3,20 @@ layout: default
 title: Blog
 ---
 
-# Things to Do in Santa Rosa Beach, FL in January 2025
+# Blog
 
-Winter in Santa Rosa Beach, Florida, is a unique experience filled with exciting activities and beautiful sights. Whether you’re looking to explore nature or enjoy local events, there’s something for everyone. Here's a brief overview:
+Welcome to our blog! Here you'll find the latest updates and activities from Vacation-30A. Click on the titles to read the full posts.
 
-## Highlights:
-- **Outdoor Activities**: Enjoy hiking, biking, and exploring the local parks.
-- **Local Events**: Participate in community gatherings and special events happening throughout the month.
-- **Dining**: Savor the flavors of local cuisine at various restaurants and cafes.
+## Latest Blog Posts
 
-Read the full blog post on our main website: [Things to Do in Santa Rosa Beach, FL in January 2025](https://5tidesfl.com/things-to-do-in-santa-rosa-beach-fl-in-january-2025/).
+### [Things to Do in Santa Rosa Beach, FL in January 2025](./post1.md)
+Winter in Santa Rosa Beach, Florida, is a unique experience filled with exciting activities and beautiful sights. Whether you’re looking to explore nature or enjoy local events, there’s something for everyone.
+
+### [Your Second Blog Post Title](./post2.md)
+A brief description of your second blog post. Add more details here to entice readers to click and read more.
+
+### [Your Third Blog Post Title](./post3.md)
+A brief description of your third blog post. Add more details here to entice readers to click and read more.
 
 [back](./)
+
