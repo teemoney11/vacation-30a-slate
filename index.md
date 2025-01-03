@@ -23,17 +23,16 @@ Your perfect beach retreat at Santa Rosa Beach, FL on 30A. Minutes away from the
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d220545.80494094512!2d-86.05918728442042!3d30.26477764190027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x20b2a6733de11d6f%3A0x8d50d88867e4f1c4!2s5Tides!5e0!3m2!1sen!2sus!4v1735866600375!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-
 ## Contact Us
 Email us at: [contactus@vacation-30a.com](mailto:5tidesfl@gmail.com)
 
 
 ## Featured Images
-![Topsail Village Pool Area](web_412%20Topsail%20Village%20%20_30.jpg)
-![Topsail Village 30A](web_412%20Topsail%20Village%20%20_31.jpg)
-![Drone View of Topsail Village Pool and Building](web_412%20Topsail%20Village%20%20_32.jpg)
-![Drone View of 30A and Gulf of Mexico](web_412%20Topsail%20Village%20%20_33.jpg)
-![Drone View of 30A and Emerald Coast](web_412%20Topsail%20Village%20%20_34.jpg)
+![Topsail Village Pool Area](assets/images/web_412%20Topsail%20Village%20_30.jpg) 
+![Topsail Village 30A](assets/images/web_412%20Topsail%20Village%20_31.jpg) 
+![Drone View of Topsail Village Pool and Building](assets/images/web_412%20Topsail%20Village%20_32.jpg) 
+![Drone View of 30A and Gulf of Mexico](assets/images/web_412%20Topsail%20Village%20_33.jpg) 
+![Drone View of 30A and Emerald Coast](assets/images/web_412%20Topsail%20Village%20_34.jpg)
 
 
 <div style="text-align: center;">
