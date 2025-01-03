@@ -9,13 +9,14 @@ Your perfect beach retreat at Santa Rosa Beach, FL on 30A. Minutes away from the
 
 ## Our Amenities
 - Located on Highway 30A on the Peaceful West End
-- Two Bedrooms and Two Bathrooms
-- Back Patio Facing the Preserve
+- Two Bedrooms and Two Full Bathrooms
+- Sleeps 5 - 1 King Bed, 1 Full Bed and 1 Twin Bed
 - Steps Away from the Pool
+- Modern Kitchen with All the comforts of home
+- Back Patio Facing the Preserve
 - Free Wifi
 - Smart TVs in Each Bedroom and Living Room
 - Minutes from Topsail Preserve State Park
-- Modern Kitchen with All the comforts of home
 
 
 ## Our Testimonials
@@ -35,12 +36,10 @@ Email us at: [contactus@vacation-30a.com](mailto:5tidesfl@gmail.com)
 ![Drone View of 30A and Emerald Coast](web_412%20Topsail%20Village%20%20_34.jpg)
 
 
-
-## More Information About Vacation-30A (please fill out our form)
 <div style="text-align: center;">
 ## More Information About Vacation-30A (please fill out our form)
 </div>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6xqATwH8-ZKf9176wsEocRiq504atIWmAFRiSTrABRurcMA/viewform?embedded=true" width="640" height="1394" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-## Visit our main website: [5Tides at Topsail](https://5tidesfl.com)
+### Visit our main website: [5Tides at Topsail](https://5tidesfl.com)
