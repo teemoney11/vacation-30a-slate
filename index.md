@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to Vacation-30A Slate Theme
 
-Your perfect beach retreat at Santa Rosa Beach, FL. Minutes away from the sugary white sands of Florida's Emerald Coast along the peaceful West End of 30A.
+Your perfect beach retreat at Santa Rosa Beach, FL on 30A. Minutes away from the sugary white sands of Florida's Emerald Coast.
 
 ## Our Amenities
 - Located on Highway 30A on the Peaceful West End
@@ -16,14 +16,11 @@ Your perfect beach retreat at Santa Rosa Beach, FL. Minutes away from the sugary
 - Smart TVs in Each Bedroom and Living Room
 - Minutes from Topsail Preserve State Park
 - Modern Kitchen with All the comforts of home
-- TESTING****TESTING***TESTING
 
 
 ## Our Testimonials
-<iframe src="https://maps.google.com/maps?q=5Tides&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> 
-<iframe src="https://maps.google.com/maps?q=5Tides%20Review%20Second&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d220545.80494094512!2d-86.05918728442042!3d30.26477764190027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x20b2a6733de11d6f%3A0x8d50d88867e4f1c4!2s5Tides!5e0!3m2!1sen!2sus!4v1735866600375!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d220545.80494094512!2d-86.05918728442042!3d30.26477764190027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x20b2a6733de11d6f%3A0x8d50d88867e4f1c4!2s5Tides!5e0!3m2!1sen!2sus!4v1735866770035!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
 ## Contact Us
@@ -39,12 +36,11 @@ Email us at: [contactus@vacation-30a.com](mailto:5tidesfl@gmail.com)
 
 
 
-
 ## More Information About Vacation-30A (please fill out our form)
-<div style="text-align: center; font-size: 1.5em;">
-  ## More Information About Vacation-30A (please fill out our form)
+<div style="text-align: center;">
+## More Information About Vacation-30A (please fill out our form)
 </div>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6xqATwH8-ZKf9176wsEocRiq504atIWmAFRiSTrABRurcMA/viewform?embedded=true" width="640" height="1394" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-Visit our main website: [5Tides at Topsail](https://5tidesfl.com)
+## Visit our main website: [5Tides at Topsail](https://5tidesfl.com)
