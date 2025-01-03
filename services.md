@@ -3,7 +3,7 @@ layout: default
 title: Services
 ---
 
-# Services
+# Accommodations
 
 At Vacation-30A, we offer a range of services to make your stay enjoyable and memorable:
 - Master Bedroom with King Size Bed
