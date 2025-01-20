@@ -9,6 +9,9 @@ Welcome to our blog! Here you'll find the latest updates and activities from Vac
 
 ## Latest Blog Posts
 
+### [Prepare for Winter Storm Watch in Santa Rosa Beach, FL](./post4.md)
+Winter storm watch and cold weather safety tips in the Santa Rosa Beach,FL and Highway 30A
+
 ### [Things to Do in Santa Rosa Beach, FL in January 2025](./post1.md)
 Winter in Santa Rosa Beach, Florida, is a unique experience filled with exciting activities and beautiful sights. Whether you’re looking to explore nature or enjoy local events, there’s something for everyone.
 
