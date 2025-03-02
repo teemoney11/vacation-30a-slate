@@ -21,6 +21,17 @@ Here’s what makes our accommodations stand out:
 - **Tranquil Views**: A serene view of the preserve from your private back patio.
 
 ---
+### **Gallery**
+Here’s a glimpse of what you can enjoy:
+
+![Master Bedroom with King Size Bed](assets/images/web_412%20Topsail%20Village%20%20_22.jpg)  
+*Master Bedroom with plush bedding for ultimate comfort.*
+
+![Kitchen with Full Ameneties](assets/images/web_412%20Topsail%20Village%20%20_17.jpg)
+*Spacious kitchen equipped with modern amenities, including a full-size refrigerator, stove, microwave, dishwasher, and ample counter space. Perfect for preparing meals with ease during your stay.*
+
+![Poolside Relaxation at 5Tides](assets/images/web_412%20Topsail%20Village%20%20_30.jpg)  
+*Steps away from the shared pool at Topsail Village.*
 
 ## **Pool Access**
 Cool off or relax by the outdoor pool, located just steps away from your unit. The pool is open during specific hours for your enjoyment.
