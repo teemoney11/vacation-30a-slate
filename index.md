@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to Vacation-30A Slate Theme
+# Welcome to Vacation-30A - Your Vacation Rental Located at Santa Rosa Beach, FL on Highway 30A
 
 Your perfect beach retreat at Santa Rosa Beach, FL on 30A. Minutes away from the sugary white sands of Florida's Emerald Coast.
 
