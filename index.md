@@ -16,7 +16,7 @@ Your perfect beach retreat at Santa Rosa Beach, FL on 30A. Minutes away from the
 - Back Patio Facing the Preserve
 - Free Wifi
 - Smart TVs in Each Bedroom and Living Room
-- Minutes from Topsail Preserve State Park
+- Minutes from Topsail Hill Preserve State Park
 
 
 ## Our Testimonials
