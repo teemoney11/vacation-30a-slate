@@ -9,3 +9,5 @@ plugins:
 - jekyll-feed
 author: "Teemoney11"
 keywords: "30A, Vacation, Santa Rosa Beach, Florida, Florida's Emerald Coast"
+sass:
+  style: compressed
