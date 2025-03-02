@@ -9,11 +9,11 @@ Welcome to our blog! Here you'll find the latest updates and activities from Vac
 
 ## Latest Blog Posts
 
-### [Top Things to Do in Santa Rosa Beach and 30A Florida - March 2025](./post11.md)
+### [Top Things to Do in Santa Rosa Beach and 30A Florida - March 2025]
 Discover the best things to do in Santa Rosa Beach and 30A Florida this March 2025, from events and outdoor adventures to dining and coastal charm.
 [Read More](https://5tidesfl.com/top-things-to-do-santa-rosa-beach-30a-florida-march-2025-events/)
 
-### [Top Activities and Events in Santa Rosa Beach, FL This February 2025](./post10.md)
+### [Top Activities and Events in Santa Rosa Beach, FL This February 2025]
 Top Activities in Santa Rosa Beach, Florida in February 2025
 [Read More](https://5tidesfl.com/top-activities-events-santa-rosa-beach-february-2025/)
 
@@ -41,7 +41,7 @@ The Emerald Coast, a stretch of pristine coastline along the Gulf of America (fo
 Things To Do on Florida’s Emerald Coast – Infographic
 [Read More](https://5tidesfl.com/things-to-do-floridas-emerald-coast/)
 
-### [30A Florida Towns](./post3.md)
+### [30A Florida Towns]
 Infographic of 30A Florida towns along historic Highway 30A
 [Read More](https://5tidesfl.com/30a-florida-towns-infographic/)
 
