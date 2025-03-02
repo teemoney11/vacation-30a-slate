@@ -23,7 +23,7 @@ nav ul li a:hover {
 #logo-container {
     position: absolute; /* Positions the logo relative to the page */
     top: 10px; /* Pushes the logo 10px from the top of the page */
-    left: 10px; /* Pushes the logo 10px from the left side */
+    right: 10px; /* Pushes the logo 10px from the left side */
     z-index: 100; /* Ensures the logo stays on top of other elements */
 }
 
