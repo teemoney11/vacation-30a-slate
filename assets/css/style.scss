@@ -8,5 +8,16 @@
     background-size: cover;
     background-position: center;
 }
+nav ul li a {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
 
+nav ul li a:hover {
+    background-color: #f0f0f0;
+    color: #0078D4;
+    border-radius: 5px;
+}
 
