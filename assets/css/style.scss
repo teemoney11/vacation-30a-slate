@@ -40,4 +40,23 @@ nav ul li.active > a {
     font-weight: bold; /* Make it bold */
     border-radius: 5px; /* Optional rounded corners */
 }
+.button {
+    display: inline-block;
+    padding: 15px 30px; /* Adjust button size */
+    font-size: 18px; /* Text size */
+    font-weight: bold; /* Bold text */
+    text-align: center;
+    color: white; /* Text color */
+    background-color: #00A896; /* Aqua background */
+    border: none;
+    border-radius: 8px; /* Rounded corners */
+    text-decoration: none; /* No underline */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Shadow for depth */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.button:hover {
+    background-color: #028090; /* Slightly darker aqua on hover */
+    transform: scale(1.05); /* Subtle zoom effect on hover */
+}
 
