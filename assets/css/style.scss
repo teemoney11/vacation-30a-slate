@@ -34,4 +34,10 @@ nav ul li a:hover {
 body {
     position: relative;
 }
+nav ul li.active > a {
+    background-color: #0078D4; /* Highlight background in blue */
+    color: white; /* Change text color to white */
+    font-weight: bold; /* Make it bold */
+    border-radius: 5px; /* Optional rounded corners */
+}
 
