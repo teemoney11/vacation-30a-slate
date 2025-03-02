@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Contact
+title: "Contact Vacation-30A | Get in Touch with Us"
+description: "Contact Vacation-30A for your perfect beach getaway. Reach out for rental inquiries, amenities information, or booking assistance at Santa Rosa Beach, FL."
+keywords: "Contact Vacation-30A, Santa Rosa Beach, 30A vacation rental, Florida beach getaway, rental inquiries, booking assistance"
+---
+
 ---
 
 # Contact
