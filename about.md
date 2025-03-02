@@ -37,4 +37,3 @@ Elevate your stay with us at Vacation-30A. We look forward to hosting you and ma
 [Back to Home](./)
 
 
-[back](./)
