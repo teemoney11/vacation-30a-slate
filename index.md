@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Home
+title: "Vacation-30A | Your Perfect Santa Rosa Beach Retreat"
+description: "Experience the best vacation rental in Santa Rosa Beach on 30A. Enjoy luxurious amenities, peaceful surroundings, and direct access to Florida's Emerald Coast."
+keywords: "Vacation rental, Santa Rosa Beach, 30A, Florida, Emerald Coast, beach retreat, family-friendly, luxury amenities"
+---
+
 ---
 
 # Welcome to Vacation-30A - Your Vacation Rental Located at Santa Rosa Beach, FL on Highway 30A
