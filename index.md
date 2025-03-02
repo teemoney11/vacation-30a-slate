@@ -24,7 +24,7 @@ Your perfect beach retreat at Santa Rosa Beach, FL on 30A. Minutes away from the
 
 
 ## Contact Us
-Email us at: [contactus@vacation-30a.com](mailto:5tidesfl@gmail.com)
+Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
 
 
 ## Featured Images
