@@ -1,22 +1,40 @@
 ---
 layout: default
-title: About Us
+title: "About Vacation-30A | Your Santa Rosa Beach Escape"
+description: "Learn about Vacation-30A, your perfect beach getaway at Santa Rosa Beach, Florida. Discover our mission to provide comfort, tranquility, and memorable vacation experiences on 30A."
+keywords: "About Vacation-30A, Santa Rosa Beach, 30A vacation rental, family-friendly, tranquil retreat, Florida Emerald Coast"
+---
+
 ---
 
 # About Us
 
-Welcome to Vacation-30A! Our team is dedicated to providing you with the best beach retreat experience at Santa Rosa Beach, FL. We are not just a business, but a family of five who understand the joy of travel and the need for comfort during your vacation.
+Welcome to Vacation-30A! We’re a family of five passionate about providing you with the ultimate beach retreat experience in beautiful Santa Rosa Beach, Florida. 
 
-Our mission is to provide you with a tranquil retreat, a place where you can unwind, create memories, and experience the simple pleasures of life. We believe in the power of togetherness, and we’ve designed our vacation home to be a canvas for your cherished moments, whether it’s a family adventure or a romantic escape.
+## **Our Mission**
+At Vacation-30A, we aim to create a tranquil and welcoming space where you can unwind, build memories, and savor the simple joys of life. Whether you're planning a family adventure or a romantic escape, our vacation home is the perfect backdrop for your cherished moments.
 
-At 5Tides, we embrace simplicity and warmth. Our home is your haven, a place where comfort meets convenience. Whether you’re a family seeking a fun-filled vacation or a couple looking for a serene getaway, we invite you to experience the difference.
+---
 
-Remember – you are more than simply visitors; you are part of our extended family. Experience the thrill of a tranquil retreat with us and make your holiday unforgettable.
+## **Why Choose 5Tides?**
+- A family-run vacation rental designed with care and comfort in mind.
+- Located on the scenic 30A highway, close to the white sandy beaches of the Emerald Coast.
+- A serene and cozy retreat tailored for both family vacations and couples' getaways.
 
-Elevate Your Stay at 5Tides!
+We pride ourselves on offering a warm and personalized experience, making you feel more like extended family than just visitors. 
 
--Cheers!
+---
 
-5Tides
+## **Experience the Difference**
+At 5Tides, simplicity meets luxury. From modern amenities to thoughtful touches throughout the home, your vacation will be nothing short of unforgettable. Step into a world of comfort, convenience, and relaxation.
+
+---
+
+Elevate your stay with us at Vacation-30A. We look forward to hosting you and making your holiday dreams come true!
+
+---
+
+[Back to Home](./)
+
 
 [back](./)
