@@ -8,7 +8,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-feed
 - jekyll-seo-tag
-author: "Teemoney11"
-keywords: "30A, Vacation, Santa Rosa Beach, Florida, Florida's Emerald Coast"
+author: "5Tides"
+keywords: "30A, Vacation Rental, Santa Rosa Beach, Vacation, Family, 5Tides, Florida's Emerald Coast"
 sass:
   style: compressed
