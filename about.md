@@ -16,7 +16,7 @@ At Vacation-30A, we aim to create a tranquil and welcoming space where you can u
 
 ---
 
-## **Why Choose Vaacation-30A?**
+## **Why Choose Vacation-30A?**
 - A family-run vacation rental designed with care and comfort in mind.
 - Located on the scenic 30A highway, close to the white sandy beaches of the Emerald Coast.
 - A serene and cozy retreat tailored for both family vacations and couples' getaways.
