@@ -12,6 +12,13 @@ keywords: "Vacation-30A Blog, Santa Rosa Beach, 30A Florida, Emerald Coast, acti
 Discover the latest updates, travel tips, and activities from Vacation-30A! Whether you're planning your next visit to Santa Rosa Beach or want to explore the charm of Florida's 30A coastline, our blog has you covered.
 
 ## **Latest Blog Posts**
+## **Latest Blog Posts Test Part **
+
+<div id="blog-container">
+    <p>Loading blog posts...</p>
+</div>
+
+<script src="assets/js/rss-feed.js"></script>
 
 ### [Top Things to Do in Santa Rosa Beach and 30A Florida - March 2025](https://5tidesfl.com/top-things-to-do-santa-rosa-beach-30a-florida-march-2025-events/)
 Discover the best things to do in Santa Rosa Beach and 30A Florida this March 2025, from events and outdoor adventures to dining and coastal charm.
