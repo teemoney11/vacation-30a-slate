@@ -23,6 +23,22 @@ keywords: "Vacation rental, Santa Rosa Beach, 30A, Florida, Emerald Coast, beach
 
 <style>
   /* ... (Your CSS styles) ... */
+  #reopen-form-trigger {
+  background-color: #007bff; /* Blue background */
+  color: white; /* White text */
+  padding: 15px 30px; /* Larger padding */
+  border: none; /* Remove default border */
+  border-radius: 5px; /* Rounded corners */
+  font-size: 1.2em; /* Larger font size */
+  cursor: pointer; /* Change cursor on hover */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add shadow */
+  transition: background-color 0.3s ease; /* Smooth hover effect */
+  margin-top: 20px; /* Add some space above the button */
+}
+
+#reopen-form-trigger:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
 </style>
 
 <script>
