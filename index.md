@@ -97,9 +97,10 @@ Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
 
   document.getElementById("email-form-trigger").addEventListener("click", showEmailPopup);
 
-  window.onload = function() {
-    setTimeout(showEmailPopup, 5000); // Show popup after 5 seconds
-  };
+ window.onload = function() {
+    console.log("window.onload executed"); // Add this line
+    setTimeout(showEmailPopup, 5000);
+};
 
   window.onclick = function(event) {
     const popup = document.getElementById("email-form-popup");
