@@ -45,38 +45,72 @@ Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
 <button id="email-form-trigger">Subscribe for Updates</button>
 
 <div id="email-form-popup" class="popup">
-    <div class="popup-content">
-        <span class="popup-close" onclick="closePopup()">×</span>
-        <h2>Stay Updated!</h2>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKELiSHNu1MGxzGKqZYZfZzZAV7jjXTAwcBQz0T27F_se8eQ/viewform?embedded=true" width="640" height="586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-    </div>
+  <div class="popup-content">
+    <span class="popup-close" onclick="closePopup()">×</span>
+    <h2>Stay Updated!</h2>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKELiSHNu1MGxzGKqZYZfZzZAV7jjXTAwcBQz0T27F_se8eQ/viewform?embedded=true" width="640" height="586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  </div>
 </div>
 
 <style>
-    .popup {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: rgba(0, 0, 0, 0.5);
-        display: none;
-        justify-content: center;
-        align-items: center;
-        z-index: 999;
-    }
+  .popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+  }
 
-    .popup-content {
-        background: #fff;
-        padding: 20px;
-        border-radius: 10px;
-        text-align: center;
-        max-width: 800px;
-        width: 90%;
-        max-height: 90%;
-        overflow: auto;
-    }
+  .popup-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 800px;
+    width: 90%;
+    max-height: 90%;
+    overflow: auto;
+  }
 
-    .popup-close {
-        position: absolute;
-        top: 1
+  .popup-close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+</style>
+
+<script>
+  function showEmailPopup() {
+    document.getElementById("email-form-popup").style.display = "flex";
+  }
+
+  function closePopup() {
+    document.getElementById("email-form-popup").style.display = "none";
+  }
+
+  document.getElementById("email-form-trigger").addEventListener("click", showEmailPopup);
+
+  window.onload = function() {
+    setTimeout(showEmailPopup, 5000); // Show popup after 5 seconds
+  };
+
+  window.onclick = function(event) {
+    const popup = document.getElementById("email-form-popup");
+    if (event.target === popup) {
+      closePopup();
+    }
+  };
+</script>
+
+<div style="text-align: center;">
+## More Information About Vacation-30A (please fill out our form)
+</div>
+
+### Visit our main website: [5Tides at Topsail](https://5tidesfl.com)
