@@ -66,11 +66,17 @@ Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
     const email = event.target.email.value;
 
     try {
-      const response = await fetch("https://script.google.com/macros/s/AKfycbx4sLmeyDQsEJKJ6QzL3PdosenvHpCVxxbEUsYXNej1_odJSZdUhuI5RFUFNONjJQmGPg/exec", {
-        method: "POST",
-        body: JSON.stringify({ email: email }),
-        headers: { "Content-Type": "application/json" }
-      });
+  const response = await fetch("https://script.google.com/macros/s/AKfycbxnfps37-86lYiZC58YYyyJNNRCheYMW9O8LYXCTnhQGuE_aBPxzrZvFMp626VsvZW0UA/exec", {
+    method: "POST",
+    body: JSON.stringify({ email: email }),
+    headers: { "Content-Type": "application/json" }
+  });
+
+  // ... rest of your code ...
+
+} catch (error) {
+  // ... your error handling ...
+}
 
       const result = await response.json();
       if (result.status === "success") {
