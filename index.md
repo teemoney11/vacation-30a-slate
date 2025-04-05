@@ -88,9 +88,12 @@ Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
   };
 
   // Close popup function
-  function closePopup() {
-    document.getElementById("email-popup").style.display = "none";
-  }
+  window.onclick = function(event) {
+   const popup = document.getElementById("email-popup");
+   if (event.target === popup) {
+     closePopup();
+   }
+};
 </script>
 
 <style>
