@@ -42,6 +42,110 @@ Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
 ![Drone View of 30A and Emerald Coast](assets/images/web_412%20Topsail%20Village%20%20_34.jpg)
 ![Beautiful Sunset at Santa Rosa Beach](assets/images/SRB_Sunset_v1.JPG)
 
+<div id="email-popup" class="popup">
+  <div class="popup-content">
+    <span class="popup-close" onclick="closePopup()">×</span>
+    <h2>Stay Updated!</h2>
+    <p>Sign up for the latest news, travel tips, and exclusive offers from Vacation-30A.</p>
+    <form id="email-form">
+      <input type="email" name="email" placeholder="Enter your email" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+</div>
+
+<script>
+  document.getElementById("email-form").addEventListener("submit", async function(event) {
+    event.preventDefault();
+    const email = event.target.email.value;
+
+    // Send email data to Google Apps Script
+    try {
+      const response = await fetch("https://script.google.com/macros/s/AKfycbx4sLmeyDQsEJKJ6QzL3PdosenvHpCVxxbEUsYXNej1_odJSZdUhuI5RFUFNONjJQmGPg/exec", {
+        method: "POST",
+        body: JSON.stringify({ email: email }),
+        headers: { "Content-Type": "application/json" }
+      });
+
+      const result = await response.json();
+      if (result.status === "success") {
+        alert("Thank you for subscribing!");
+        event.target.reset();
+      } else {
+        alert("Something went wrong. Please try again.");
+      }
+    } catch (error) {
+      console.error("Error:", error);
+      alert("Failed to submit. Please check your connection.");
+    }
+  });
+
+  // Show popup after delay
+  window.onload = function() {
+    setTimeout(() => {
+      document.getElementById("email-popup").style.display = "flex";
+    }, 5000); // Show popup after 5 seconds
+  };
+
+  // Close popup function
+  function closePopup() {
+    document.getElementById("email-popup").style.display = "none";
+  }
+</script>
+
+<style>
+  /* Popup styling */
+  .popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+  }
+
+  .popup-content {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 400px;
+    width: 90%;
+  }
+
+  .popup-close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  #email-form input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+
+  #email-form button {
+    padding: 10px 20px;
+    background-color: #0073e6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #email-form button:hover {
+    background-color: #005bb5;
+  }
+</style>
+
+
 
 <div style="text-align: center;">
 ## More Information About Vacation-30A (please fill out our form)
