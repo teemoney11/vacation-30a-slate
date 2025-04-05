@@ -55,9 +55,52 @@ Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
 </div>
 
 <script>
+  // Close popup function
+  function closePopup() {
+    document.getElementById("email-popup").style.display = "none";
+  }
+
+  // Handle form submission
   document.getElementById("email-form").addEventListener("submit", async function(event) {
     event.preventDefault();
     const email = event.target.email.value;
+
+    try {
+      const response = await fetch("https://script.google.com/macros/s/AKfycbx4sLmeyDQsEJKJ6QzL3PdosenvHpCVxxbEUsYXNej1_odJSZdUhuI5RFUFNONjJQmGPg/exec", {
+        method: "POST",
+        body: JSON.stringify({ email: email }),
+        headers: { "Content-Type": "application/json" }
+      });
+
+      const result = await response.json();
+      if (result.status === "success") {
+        alert("Thank you for subscribing!");
+        event.target.reset();
+        closePopup(); // Close popup after successful submission
+      } else {
+        alert("Something went wrong. Please try again.");
+      }
+    } catch (error) {
+      console.error("Error:", error);
+      alert("Failed to submit. Please check your connection.");
+    }
+  });
+
+  // Show popup after delay
+  window.onload = function() {
+    setTimeout(() => {
+      document.getElementById("email-popup").style.display = "flex";
+    }, 5000); // Show popup after 5 seconds
+  };
+
+  // Close popup when clicking outside the content
+  window.onclick = function(event) {
+    const popup = document.getElementById("email-popup");
+    if (event.target === popup) {
+      closePopup();
+    }
+  };
+</script>
 
     // Send email data to Google Apps Script
     try {
