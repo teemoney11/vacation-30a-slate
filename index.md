@@ -42,10 +42,41 @@ Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
 ![Drone View of 30A and Emerald Coast](assets/images/web_412%20Topsail%20Village%20%20_34.jpg)
 ![Beautiful Sunset at Santa Rosa Beach](assets/images/SRB_Sunset_v1.JPG)
 
-<div style="text-align: center;">
-## More Information About Vacation-30A (please fill out our form)
+<button id="email-form-trigger">Subscribe for Updates</button>
+
+<div id="email-form-popup" class="popup">
+    <div class="popup-content">
+        <span class="popup-close" onclick="closePopup()">×</span>
+        <h2>Stay Updated!</h2>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKELiSHNu1MGxzGKqZYZfZzZAV7jjXTAwcBQz0T27F_se8eQ/viewform?embedded=true" width="640" height="586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </div>
 </div>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdKELiSHNu1MGxzGKqZYZfZzZAV7jjXTAwcBQz0T27F_se8eQ/viewform?embedded=true" width="640" height="586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<style>
+    .popup {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 999;
+    }
 
-### Visit our main website: [5Tides at Topsail](https://5tidesfl.com)
+    .popup-content {
+        background: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        max-width: 800px;
+        width: 90%;
+        max-height: 90%;
+        overflow: auto;
+    }
+
+    .popup-close {
+        position: absolute;
+        top: 1
