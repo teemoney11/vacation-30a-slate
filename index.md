@@ -114,16 +114,18 @@ Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
     }, 3000); // Adjust delay as needed
   };
 
-  // Function to close the popup
+  // Function to close the popup when clicking outside the popup content
   function closePopup(event) {
     const popup = document.getElementById("email-form-popup");
-    if (
-      event?.target?.classList?.contains("popup-close") ||
-      event?.target?.id === "email-form-popup"
-    ) {
+
+    // Check if the click target is outside the popup content
+    if (event.target === popup) {
       popup.style.display = "none";
     }
   }
+
+  // Add the event listener to the popup container
+  document.getElementById("email-form-popup").addEventListener("click", closePopup);
 
   // Add click listener to reopen button
   document.getElementById("email-form-trigger").addEventListener("click", () => {
