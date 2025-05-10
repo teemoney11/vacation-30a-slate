@@ -44,31 +44,7 @@ keywords: "Vacation rental, Santa Rosa Beach, 30A, Florida, Emerald Coast, beach
     margin-left: 5px; /* Adds spacing */
 }
 </style>
-<div id="tiktok-banner">
-    <p>Follow us on TikTok! <a href="https://www.tiktok.com/@5tidesfl" target="_blank"><i class="fa-brands fa-tiktok"></i></a></p>
-</div>
 
-<style>
-#tiktok-banner {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background: #ff0050; /* TikTok’s signature color */
-    color: white;
-    text-align: center;
-    padding: 10px;
-    font-size: 18px;
-    font-weight: bold;
-    z-index: 9999;
-}
-
-#tiktok-banner a {
-    color: white;
-    text-decoration: underline;
-    font-weight: bold;
-}
-</style>
 
 # Welcome to Vacation-30A - Your Vacation Rental Located at Santa Rosa Beach, FL on Highway 30A
 
