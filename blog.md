@@ -12,6 +12,12 @@ keywords: "Vacation-30A Blog, Santa Rosa Beach, 30A Florida, Emerald Coast, acti
 Discover the latest updates, travel tips, and activities from Vacation-30A! Whether you're planning your next visit to Santa Rosa Beach or want to explore the charm of Florida's 30A coastline, our blog has you covered.
 
 ## **Latest Blog Posts**
+### [Things to Do in Santa Rosa Beach & 30A in May 2025](https://5tidesfl.com/things-to-do-santa-rosa-beach-30a-may-2025/)
+May is one of the best months to experience the magic of Santa Rosa Beach & 30A. With warm sunshine, breathtaking beaches, and a lineup of unforgettable events, there's something for everyone to enjoy. Whether you're biking along the Timpoochee Trail, enjoying the fine dining on Mother's Day, or visiting for the Memorial Day weekend, every day brings a new adventure. Plan your getaway and Elevate Your Stay. 
+
+### [A Guide to Understanding Tides](https://5tidesfl.com/a-guide-to-understanding-tides/)
+Discover the beauty and importance of tides—how they shape our coasts, influence marine life, and guide your perfect beach day at Santa Rosa Beach, FL.
+
 ### [Spring Awakenings: April Adventures Along 30A, Santa Rosa Beach & Miramar Beach](https://5tidesfl.com/spring-awakenings-april-adventures-along-30a-santa-rosa-beach-miramar-beach/)
 April is the perfect time to experience the fresh beginnings of spring along 30A and Florida's Emerald Coast. From the vibrant colors of blooming wildflowers to lively outdoor events and beachside adventures, there's something for everyone. Get ready to awaken your senses with the beauty and charm of the Emerald Coast this spring!
 
