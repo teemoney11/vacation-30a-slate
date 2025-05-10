@@ -5,9 +5,12 @@ description: "Experience the best vacation rental in Santa Rosa Beach on 30A. En
 keywords: "Vacation rental, Santa Rosa Beach, 30A, Florida, Emerald Coast, beach retreat, family-friendly, luxury amenities"
 ---
 
-<!-- Scrolling TikTok Banner -->
+<!-- Scrolling TikTok Banner with Logo -->
 <div id="scroll-banner">
-    🎵 Follow us on TikTok! <a href="https://www.tiktok.com/@5tidesfl" target="_blank">Click here</a>
+    🎵 Follow us on TikTok! 
+    <a href="https://www.tiktok.com/@5tidesfl" target="_blank">
+        <i class="fab fa-tiktok"></i>
+    </a>
 </div>
 
 <style>
@@ -32,7 +35,13 @@ keywords: "Vacation rental, Santa Rosa Beach, 30A, Florida, Emerald Coast, beach
 
 #scroll-banner a {
     color: white;
-    text-decoration: underline;
+    text-decoration: none;
+}
+
+.fa-tiktok {
+    font-size: 24px;
+    color: black !important; /* Ensures the icon is black */
+    margin-left: 5px; /* Adds spacing */
 }
 </style>
 <div id="tiktok-banner">
