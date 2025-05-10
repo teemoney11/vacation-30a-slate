@@ -6,7 +6,7 @@ keywords: "Vacation rental, Santa Rosa Beach, 30A, Florida, Emerald Coast, beach
 ---
 
 <div id="tiktok-banner">
-    <p>Follow us on TikTok! <a href="https://www.tiktok.com/@5tidesfl" target="_blank">Click here</a></p>
+    <p>Follow us on TikTok! <a href="https://www.tiktok.com/@5tidesfl" target="_blank"><i class="fa-brands fa-tiktok"></i></a></p>
 </div>
 
 <style>
