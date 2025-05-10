@@ -25,7 +25,7 @@ keywords: "Vacation rental, Santa Rosa Beach, 30A, Florida, Emerald Coast, beach
     padding: 10px;
     text-align: center;
     white-space: nowrap;
-    animation: scrollBanner 10s linear infinite;
+    animation: scrollBanner 15s linear infinite;
     z-index: 9999;
 }
 
