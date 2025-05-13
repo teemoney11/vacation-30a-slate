@@ -13,7 +13,7 @@ Discover the latest updates, travel tips, and activities from Vacation-30A! Whet
 
 ## **Latest Blog Posts**
 ### [Things to Do in Santa Rosa Beach & 30A in May 2025](https://5tidesfl.com/things-to-do-santa-rosa-beach-30a-may-2025/)
-May is one of the best months to experience the magic of Santa Rosa Beach & 30A. With warm sunshine, breathtaking beaches, and a lineup of unforgettable events, there's something for everyone to enjoy. Whether you're biking along the Timpoochee Trail, enjoying the fine dining on Mother's Day, or visiting for the Memorial Day weekend, every day brings a new adventure. Plan your getaway and Elevate Your Stay. 
+May is one of the best months to experience the magic of Santa Rosa Beach & 30A. With warm sunshine, breathtaking beaches, and a lineup of unforgettable events, there's something for everyone to enjoy. Whether you're biking along the Timpoochee Trail, enjoying the fine dining on Mother's Day, or visiting for the Memorial Day weekend, every day brings a new adventure. Plan your getaway and Elevate Your Stay. **Read the full guide on 5Tides →**
 
 ### [A Guide to Understanding Tides](https://5tidesfl.com/a-guide-to-understanding-tides/)
 Discover the beauty and importance of tides—how they shape our coasts, influence marine life, and guide your perfect beach day at Santa Rosa Beach, FL.
