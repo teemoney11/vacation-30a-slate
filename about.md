@@ -17,7 +17,7 @@ At Vacation-30A, we aim to create a tranquil and welcoming space where you can u
 ---
 
 ## **Why Choose Vacation-30A?**
-- A family-run vacation rental designed with care and comfort in mind.
+- A family-run vacation rental designed with care and comfort in mind **by the 5Tides family.
 - Located on the scenic 30A highway, close to the white sandy beaches of the Emerald Coast.
 - A serene and cozy retreat tailored for both family vacations and couples' getaways.
 
@@ -25,12 +25,12 @@ We pride ourselves on offering a warm and personalized experience, making you fe
 
 ---
 
-## **Experience the Difference**
-At 5Tides, simplicity meets luxury. From modern amenities to thoughtful touches throughout the home, your vacation will be nothing short of unforgettable. Step into a world of comfort, convenience, and relaxation.
+## **Experience the Difference with 5Tides**
+At **5Tides**, simplicity meets luxury. From modern amenities to thoughtful touches throughout the home, your vacation will be nothing short of unforgettable. Step into a world of comfort, convenience, and relaxation.
 
 ---
 
-Elevate your stay with us at Vacation-30A. We look forward to hosting you and making your holiday dreams come true!
+Elevate your stay with us at Vacation-30A. **Learn more about our vacation rental and the 5Tides experience on our main website: [5Tides at Topsail](https://5tidesfl.com)**
 
 ---
 
