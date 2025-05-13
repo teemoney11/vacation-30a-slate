@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Vacation-30A | Your Perfect Santa Rosa Beach Retreat"
-description: "Experience the best vacation rental in Santa Rosa Beach on 30A. Enjoy luxurious amenities, peaceful surroundings, and direct access to Florida's Emerald Coast."
-keywords: "Vacation rental, Santa Rosa Beach, 30A, Florida, Emerald Coast, beach retreat, family-friendly, luxury amenities"
+title: "Vacation-30A | Your Perfect Santa Rosa Beach Retreat on 30A"
+description: "Find your ideal 30A vacation rental in Santa Rosa Beach! Vacation-30A is a dedicated landing page for 5Tides at Topsail, offering luxurious amenities and easy beach access on Florida's Emerald Coast."
+keywords: "vacation 30A, 30A rentals, Santa Rosa Beach vacation rental, 5Tides at Topsail, Florida beach vacation, beach house rental 30A, family-friendly 30A, vacation rentals with pools 30A, things to do 30A, 30A travel guide, 30A beaches"
 ---
 
 <div id="tiktok-banner">
