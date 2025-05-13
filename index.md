@@ -73,7 +73,7 @@ keywords: "Vacation rental, Santa Rosa Beach, 30A, Florida, Emerald Coast, beach
 </style>-->
 
 
-# our Ideal Vacation on 30A in Santa Rosa Beach Awaits - Brought to you by 5Tides
+# Your Ideal Vacation on 30A in Santa Rosa Beach Awaits - Brought to you by 5Tides
 
 Welcome to Vacation-30A - the exceptional vacation rental offered by **5Tides** in beautiful Santa Rosa Beach, Florida, along scenic Highway 30A. Discover the perfect beach retreat just moments from the Emerald Coast.
 
