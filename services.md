@@ -7,7 +7,7 @@ keywords: "Vacation-30A services, 5Tides, Santa Rosa Beach accommodations, 30A r
 
 # Exceptional Accommodations at Vacation-30A
 
-At Vacation-30A, we ensure your stay is as comfortable and memorable as possible. Our range of premium amenities caters to families, couples, and solo travelers alike.
+At Vacation-30A, managed with care by **5Tides** family we ensure your stay is as comfortable and memorable as possible. Our range of premium amenities caters to families, couples, and solo travelers alike.
 
 ## **Why Choose Us?**
 Here’s what makes our accommodations stand out:
@@ -22,7 +22,7 @@ Here’s what makes our accommodations stand out:
 
 ---
 ### **Gallery**
-Here’s a glimpse of what you can enjoy:
+**Explore our full photo gallery to see more of Vacation-30A! [View Gallery →](https://5tidesfl.com/photo-gallery/)**
 
 ![Master Bedroom with King Size Bed](assets/images/web_412%20Topsail%20Village%20%20_22.jpg)  
 *Master Bedroom with plush bedding for ultimate comfort.*
@@ -33,12 +33,13 @@ Here’s a glimpse of what you can enjoy:
 ![Poolside Relaxation at 5Tides](assets/images/web_412%20Topsail%20Village%20%20_30.jpg)  
 *Steps away from the shared pool at Topsail Village.*
 
+
 ## **Pool Access**
 Cool off or relax by the outdoor pool, located just steps away from your unit. The pool is open during specific hours for your enjoyment.
 
 ---
 
-Vacation-30A combines convenience and luxury to ensure your stay in Santa Rosa Beach is nothing short of exceptional. Book your perfect getaway today and enjoy everything 30A has to offer!
+Vacation-30A, by **5Tides** combines convenience and luxury to ensure your stay in Santa Rosa Beach is nothing short of exceptional. Book your perfect getaway today and enjoy everything 30A has to offer!
 
 ---
 
