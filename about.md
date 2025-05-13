@@ -2,7 +2,7 @@
 layout: default
 title: "About Vacation-30A | Your Santa Rosa Beach Escape"
 description: "Learn about Vacation-30A, your perfect beach getaway at Santa Rosa Beach, Florida. Discover our mission to provide comfort, tranquility, and memorable vacation experiences on 30A."
-keywords: "About Vacation-30A, Santa Rosa Beach, 30A vacation rental, family-friendly, tranquil retreat, Florida Emerald Coast"
+keywords: "About Vacation-30A, Santa Rosa Beach, 30A vacation rental, family-friendly, tranquil retreat, Florida Emerald Coast, 5Tides family"
 ---
 
 ---
