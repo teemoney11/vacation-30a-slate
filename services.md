@@ -2,7 +2,7 @@
 layout: default
 title: "Vacation-30A Services | Exceptional Accommodations on 30A"
 description: "Discover premium accommodations at Vacation-30A in Santa Rosa Beach, FL. Enjoy a tranquil retreat with modern amenities, from free WiFi to a poolside location."
-keywords: "Vacation-30A services, Santa Rosa Beach accommodations, 30A rentals, premium amenities, family-friendly, pool access, vacation retreat"
+keywords: "Vacation-30A services, 5Tides, Santa Rosa Beach accommodations, 30A rentals, premium amenities, family-friendly, pool access, vacation retreat, free WiFi, washer dryer, smart TVs"
 ---
 
 # Exceptional Accommodations at Vacation-30A
