@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "About Vacation-30A | Your Santa Rosa Beach Escape"
