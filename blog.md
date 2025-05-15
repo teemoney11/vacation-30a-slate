@@ -3,6 +3,8 @@ layout: default
 title: "Vacation-30A Blog | Discover the Best of Santa Rosa Beach and 30A"
 description: "Stay updated with the latest activities, events, and insights from Vacation-30A. Explore Santa Rosa Beach and Florida's Emerald Coast through our engaging blog posts."
 keywords: "Vacation-30A Blog, Santa Rosa Beach, 30A Florida, Emerald Coast, activities, events, travel tips, beach guide, 5Tides, what is happening this month in 30A FL"
+redirect_from:
+  - /blog/
 ---
 
 ---
