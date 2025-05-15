@@ -12,3 +12,5 @@ author: "5Tides"
 keywords: "30A, Vacation Rental, Santa Rosa Beach, Vacation, Family, 5Tides, Florida's Emerald Coast"
 sass:
   style: compressed
+plugins:
+  - jekyll-redirect-from
