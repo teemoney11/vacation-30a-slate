@@ -8,6 +8,7 @@ redirect_from:
   - /about/
 ---
 
+---
 # About Us
 
 Welcome to Vacation-30A! We’re a family of five passionate about providing you with the ultimate beach retreat experience in beautiful Santa Rosa Beach, Florida. 
